@@ -2,7 +2,7 @@
 analyzing physical locations in the greater boston area and their proximity to jobs.
 
 # overview
-It should be possible to build a computer model to estimate which areas of Massachusetts are likely to be desirable based on some simple data sources. This model could be used when deciding a town to purchase a home in. Long gone are the days of staying with an employer for an entire career so chosing a location that has a wide variety of employers is ideal. 
+It should be possible to build a computer model to estimate which areas of Massachusetts are likely to be desirable based on some simple data sources. This model could be used when deciding a town to purchase a home in. Long gone are the days of staying with an employer for an entire career so chosing a location that has a wide variety of employers is ideal. The goal of this program is to solve this problem and find the most optimal location for access to jobs.
 
 This algorithm is looking at 3 pieces of data:
 
