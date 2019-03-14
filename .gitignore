@@ -1,0 +1,9 @@
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.iml
+
+npm-debug.log
+node_modules

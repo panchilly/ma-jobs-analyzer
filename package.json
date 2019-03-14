@@ -1,0 +1,18 @@
+{
+  "name": "ma-jobs-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/jobs.js",
+  "scripts": {
+	"start": "node ./src/jobs.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "latest",
+    "cheerio": "latest",
+    "csv-parse": "4.3.3",
+    "lodash": "4.17.11",
+    "app-root-path": "2.0.1"
+  }
+}
