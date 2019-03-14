@@ -34,7 +34,7 @@ Roughly speaking a 15 mile suburb to suburb commute during rush hour should be r
 
 A 15 mile suburb to city commute would be 1hr during rush hour by car and about 45 by train. 
 
-# Ooutput of top 30
+# output of top 30 towns
 1. 1 MA,Weston 22326.416538021247 0.014521246528794307
 1. 0.995981463709645 MA,Wellesley 22236.697022929628 0.015469006624646698
 1. 0.99529477013905 MA,Wayland 22221.36561623854 0.028235534455195097
